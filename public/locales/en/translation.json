@@ -1,0 +1,437 @@
+{
+  "brand": "Folada",
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "pricing": "Pricing",
+    "get_started": "Get Started"
+  },
+  "hero": {
+    "subtitle": "Your Brand. Our Digital Brilliance.",
+    "title1": "Unleash",
+    "title2": "Your Digital Potential",
+    "description": "We elevate brands with standout websites, magnetic social media, powerful content strategies, and unforgettable identities. Partner with us to grow, engage, and lead.",
+    "btn_start": "Start Your Project",
+    "btn_explore": "See Our Work"
+  },
+  "stats": {
+    "roi": "Average ROI Increase",
+    "identities": "Brand Identities Created",
+    "campaigns": "Content Campaigns Launched",
+    "satisfaction": "Client Satisfaction"
+  },
+  "social_proof": {
+    "heading": "Trusted by Forward-Thinking Businesses",
+    "description": "Join the elite circle of brands we've elevated with 3D web experiences"
+  },
+  "testimonials": {
+    "heading": "Client Success Stories",
+    "description": "Real results from our clients",
+    "testimonialsList": [
+      {
+        "quote": "Folada's SMM team grew our Instagram from 1k to 10k in just 3 months. Their content is creative, on-brand, and drives real engagement.",
+        "author": "Simon Adams",
+        "role": "Marketing Lead, GreenLeaf Cafe",
+        "website": "greenleafcafe.ge",
+        "rating": 5
+      },
+      {
+        "quote": "Our new brand identity is stunning. The logo, colors, and messaging finally reflect who we are. We get compliments from clients every week!",
+        "author": "Irakli Kapanadze",
+        "role": "Founder, Kapa Consulting",
+        "website": "kapaconsulting.com",
+        "rating": 5
+      },
+      {
+        "quote": "The content strategy Folada developed for us doubled our blog traffic and brought in high-quality leads. Their team is proactive and data-driven.",
+        "author": "Nick Taylor",
+        "role": "Head of Content, PrimeDrive",
+        "website": "primedrive.ge",
+        "rating": 5
+      },
+      {
+        "quote": "Folada enhanced the authenticity of our business with a beautiful and modern website, and they completed the job in just 5 days! I highly recommend them.",
+        "author": "Mariam Magradze",
+        "role": "CEO, EnergoSun",
+        "website": "energosun.ge",
+        "rating": 5
+      },
+      {
+        "quote": "We fully handed over Folada. We had a lot of doubts at first, but we found out that their services are really professional.",
+        "author": "Saba Foladashvili",
+        "role": "CEO, Tergi",
+        "website": "tergi-for-generations.vercel.app",
+        "rating": 5
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Brand?",
+    "description": "From SMM and brand identity to content strategy and stunning websites, we help you grow, engage, and stand out. Let’s build your digital success story together.",
+    "btn_strategy": "Get Free Consultation",
+    "btn_portfolio": "See Our Work",
+    "benefits": {
+      "presence": "Boost your digital presence",
+      "contracts": "Flexible packages for every need",
+      "guarantee": "Results-driven, satisfaction guaranteed"
+    }
+  },
+  "footer": {
+    "description": "We boost your online presence, help you find more customers, and support your business growth every step of the way.",
+    "socials": {
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "dribbble": "Dribbble",
+      "github": "GitHub"
+    }
+  },
+  "contactfoot": {
+    "email_label": "Email us",
+    "email": "contact@folada.com",
+    "location_label": "Located in",
+    "location": "Tbilisi, Georgia",
+    "schedule_call": "Schedule a Call",
+    "schedule_consultation": "Schedule Consultation"
+  },
+  "policy": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookies"
+  },
+  "copyright": "© {{year}} Folada. All rights reserved.",
+  "about": {
+  "title": "About Folada",
+  "paragraph": "At Folada, we don’t just build digital products — we build your empire. From revolutionary web and mobile solutions to magnetic branding, compelling content, and unstoppable growth strategies, we fuel businesses that refuse to settle for second place. Partner with us to unleash your brand’s full potential and lead your industry with confidence, innovation, and precision.",
+  "highlights": {
+    "visionary": {
+      "title": "Visionary Strategy",
+      "desc": "We craft bold, future-focused plans that position your brand to disrupt markets and capture loyal customers."
+    },
+    "endtoend": {
+      "title": "End-to-End Excellence",
+      "desc": "From flawless code and captivating design to persuasive copywriting and targeted marketing — every detail is executed flawlessly to drive measurable success."
+    },
+    "growthAcceleration": {
+      "title": "Growth Acceleration",
+      "desc": "Our data-driven SEO, viral social media campaigns, and strategic content ignite explosive growth and maximize your ROI."
+    },
+    "userObsession": {
+      "title": "User Obsession",
+      "desc": "We design experiences that don’t just engage users — they inspire loyalty and transform customers into lifelong advocates."
+    },
+    "partnership": {
+      "title": "True Partnership",
+      "desc": "Beyond launch, we provide relentless support, optimization, and innovation so your business scales continuously without limits."
+    }
+  }
+},
+  "contact": {
+    "thank_you": "Thank you!",
+    "reply_soon": "We'll get back to you within 24 hours to discuss your project.",
+    "name": "Name *",
+    "email": "Email *",
+    "company": "Company",
+    "project_type": "Project Type *",
+    "details": "Project Details *",
+    "placeholder_name": "Your full name",
+    "placeholder_email": "your@email.com",
+    "placeholder_company": "Your company name",
+    "placeholder_details": "Tell us about your project, goals, and any specific requirements...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "policy": "By submitting this form, you agree to our privacy policy. We'll only use your information to respond to your inquiry.",
+    "error": "Failed to send message. Please try again later."
+  },
+  "portfolio": {
+    "title": "Featured Work",
+    "subtitle": "Discover our latest digital masterpieces",
+    "view_project": "View Project"
+  },
+  "filters": {
+    "all": "All",
+    "photography": "Photography",
+    "startup": "Startup",
+    "entertainment": "Entertainment",
+    "energy": "Energy",
+    "transportation": "Transportation",
+    "hospitality": "Hospitality"
+  },
+  "portfolioItems": {
+    "photography": {
+      "title": "3D Photography Showcase",
+      "description": "Interactive 3D gallery with stunning visual effects and seamless navigation"
+    },
+    "education": {
+      "title": "Education Platform",
+      "description": "Modern website honoring family legacy with interactive storytelling elements"
+    },
+    "movie_catalog": {
+      "title": "Movie Catalog Platform",
+      "description": "High-performance online movie catalog with advanced search and filtering"
+    },
+    "sun_panels": {
+      "title": "Sun Panels Platform",
+      "description": "Interactive platform for solar panel solutions with modern design and user-friendly interface"
+    },
+    "car_rental": {
+      "title": "Car Rental Service",
+      "description": "Dynamic car rental platform with vehicle previews and booking system"
+    },
+    "hotel": {
+      "title": "Hotel Website",
+      "description": "Dynamic hotel booking platform with room previews and booking system"
+    }
+  },
+  "servicesSection": {
+    "heading": "What Do We Do?",
+    "subtitle": "Precision‑engineered solutions that elevate your digital presence",
+    "services": [
+      {
+        "title": "Web Development",
+        "description": "Transform your vision into a blazing-fast, SEO-optimized website or app that captivates visitors and drives real results. Experience flawless performance and stunning design—built for your success."
+      },
+      {
+        "title": "Mobile Apps",
+        "description": "Put your brand in every pocket! We craft sleek, high-performance mobile apps that wow users and keep them coming back—on any device, anywhere."
+      },
+      {
+        "title": "UI/UX Design",
+        "description": "Make every click unforgettable. Our pixel-perfect designs blend beauty with intuitive usability, turning visitors into loyal fans."
+      },
+      {
+        "title": "SEO & Analytics",
+        "description": "Rise to the top of search results and stay there! Our data-driven SEO and real-time analytics put you ahead of the competition—so you can grow with confidence."
+      },
+      {
+        "title": "Social Media Marketing (SMM)",
+        "description": "Ignite your brand on every platform! We create scroll-stopping campaigns and viral content that boost engagement, followers, and sales."
+      },
+      {
+        "title": "Copywriting",
+        "description": "Turn words into revenue. Our persuasive copy grabs attention, inspires action, and perfectly matches your brand’s unique voice."
+      },
+      {
+        "title": "Brand Identity",
+        "description": "Stand out with a memorable brand! We design logos, color palettes, and visual systems that capture your essence and make a lasting impression."
+      },
+      {
+        "title": "Content Strategy",
+        "description": "Fuel your growth with a winning content plan. We craft strategies that attract, engage, and convert your ideal audience."
+      },
+      {
+        "title": "Maintenance & Support",
+        "description": "Keep your digital assets running smoothly. We offer ongoing updates, security, and support—so you can focus on your business."
+      }
+    ],
+    "discoverMore": "Discover More"
+  },
+  "pricingSection": {
+    "heading": "Grow Your Business—Choose Your Perfect Package",
+    "subtitle": "Get a website and marketing that actually brings you customers. Pick a package, and let’s make your brand shine.",
+    "included": "What's Included:",
+    "packages": {
+      "webStarter": {
+        "name": "Website Launch",
+        "features": [
+          "A beautiful, fast website—ready in days",
+          "Looks perfect on any device",
+          "Easy contact form so clients reach you",
+          "Google-friendly for more visitors",
+          "Simple updates, no tech skills needed"
+        ],
+        "note": "Ideal for new businesses. Get online, get found, and start growing—fast."
+      },
+      "webPremium": {
+        "name": "Website Growth",
+        "features": [
+          "Custom design that fits your brand",
+          "Easy-to-edit pages and blog",
+          "Animations that impress visitors",
+          "Multi-language support for more clients",
+          "Advanced SEO to beat your competition"
+        ],
+        "note": "For businesses ready to stand out and attract more customers."
+      },
+      "webElite": {
+        "name": "Website Domination",
+        "features": [
+          "Everything in Growth, plus:",
+          "Online store or booking system",
+          "Unique, interactive design",
+          "Integrations with your favorite tools",
+          "VIP support for 3 months"
+        ],
+        "note": "For ambitious brands who want to lead their market."
+      },
+      "appStarter": {
+        "name": "App Launch",
+        "features": [
+          "Simple app for iOS & Android",
+          "Up to 3 screens",
+          "Clean, user-friendly design",
+          "We help you publish it"
+        ],
+        "note": "Perfect for your first app or MVP."
+      },
+      "appPremium": {
+        "name": "App Growth",
+        "features": [
+          "Up to 7 screens",
+          "Custom design for your brand",
+          "Push notifications",
+          "Analytics to track users",
+          "1 month of support after launch"
+        ],
+        "note": "For businesses ready to scale their app idea."
+      },
+      "appElite": {
+        "name": "App Domination",
+        "features": [
+          "Everything in Growth, plus:",
+          "API integrations",
+          "User login & security",
+          "3 months of updates",
+          "App marketing advice"
+        ],
+        "note": "For brands who want a powerful, scalable app."
+      },
+      "smmStarter": {
+        "name": "Social Kickstart",
+        "features": [
+          "8 posts per month on Facebook & Instagram",
+          "We reply to your followers",
+          "Basic ads to get you noticed",
+          "Monthly results report",
+          "We write all your captions"
+        ],
+        "note": "Start building your audience and get real engagement."
+      },
+      "smmPremium": {
+        "name": "Social Growth",
+        "features": [
+          "16 posts + 4 reels every month",
+          "We manage Facebook, Instagram, TikTok",
+          "Ad campaigns that bring real leads",
+          "Bi-weekly performance check-ins",
+          "Creative copy for posts, ads, and stories",
+          "Content calendar so you always know what’s next"
+        ],
+        "note": "Grow your brand, get more followers, and turn them into customers."
+      },
+      "smmElite": {
+        "name": "Social Domination",
+        "features": [
+          "Everything in Growth, plus:",
+          "Unlimited content ideas",
+          "Big-budget ad strategies",
+          "24/7 support and crisis management",
+          "Custom dashboard to track your success",
+          "Campaigns and scripts that go viral",
+          "Full content strategy and creative direction"
+        ],
+        "note": "Become the brand everyone talks about."
+      },
+      "identityStarter": {
+        "name": "Brand Starter",
+        "features": [
+          "Logo, colors, and business card",
+          "Simple brand guidelines",
+          "Starter UI kit for your website"
+        ],
+        "note": "Look professional from day one."
+      },
+      "identityPremium": {
+        "name": "Brand Growth",
+        "features": [
+          "Full brand book",
+          "Templates for social & print",
+          "Brand story & messaging",
+          "Web & app UI/UX guidelines"
+        ],
+        "note": "Stand out and be remembered everywhere."
+      },
+      "identityElite": {
+        "name": "Brand Domination",
+        "features": [
+          "Everything in Growth, plus:",
+          "Brand strategy workshop",
+          "Creative direction",
+          "Launch assets",
+          "Full UI/UX design system"
+        ],
+        "note": "For brands who want to be unforgettable."
+      },
+      "contentStarter": {
+        "name": "Content Kickstart",
+        "features": [
+          "1-month content calendar",
+          "We come up with topics & captions"
+        ],
+        "note": "Never run out of content ideas again."
+      },
+      "contentPremium": {
+        "name": "Content Growth",
+        "features": [
+          "3-month content plan",
+          "Blog & social integration",
+          "Analytics review"
+        ],
+        "note": "Grow your audience with a real strategy."
+      },
+      "contentElite": {
+        "name": "Content Domination",
+        "features": [
+          "Everything in Growth, plus:",
+          "Multi-channel strategy",
+          "1 month of ongoing optimization"
+        ],
+        "note": "Become the go-to source in your industry."
+      },
+      "digitalGrowthSuite": {
+        "name": "Digital Growth Suite",
+        "features": [
+          "Website Growth package",
+          "Social Growth package",
+          "SEO Growth package",
+          "Monthly strategy call",
+          "Priority support"
+        ],
+        "note": "Save 20% and get everything you need to grow—done for you."
+      },
+      "brandDominator": {
+        "name": "Brand Dominator",
+        "features": [
+          "Brand Domination package",
+          "Website Domination package",
+          "Content Domination package",
+          "Creative direction",
+          "Launch campaign assets"
+        ],
+        "note": "For brands ready to become famous."
+      },
+      "allInOne": {
+        "name": "All-In-One Partnership",
+        "features": [
+          "Every Elite service we offer",
+          "Your own dedicated strategist",
+          "Unlimited updates",
+          "Quarterly business growth sessions",
+          "15% off all future projects"
+        ],
+        "note": "For founders who want a true partner—let’s build your empire together."
+      }
+    },
+    "buttons": {
+      "getStarted": "Let’s Get Started",
+      "getPremiumWebsite": "I Want This Website",
+      "getPremiumApp": "I Want This App",
+      "getPremiumSMM": "Grow My Socials",
+      "getPremiumBrandIdentity": "Upgrade My Brand",
+      "getPremiumContentStrategy": "Boost My Content",
+      "getUnitedPackage": "Get Everything",
+      "getBrandDominator": "Make My Brand Famous",
+      "getAllInOne": "Become a Market Leader"
+    }
+  }
+}
